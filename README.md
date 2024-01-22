@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/C_yB551Y)
+# 所用套件
+1. swiper
+https://swiperjs.com/demos#default
+2. gsap
+https://gsap.com/
+3. magnific popup
+https://dimsemenov.com/plugins/magnific-popup/
+
+# myBox
+用的是 gsap
+
+# home
+用到的套件為 swiper
+
+# section02
+用的是 magnific popup
+
+# footer.logo 
+swiper
